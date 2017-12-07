@@ -6,6 +6,9 @@
     "Node.js",
     "application"
   ],
+  "scripts": {
+    "test": "mocha"
+  },
   "homepage": "example.com",
   "engines": {
     "node": ">= 0.6.0",
